@@ -1,6 +1,5 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const sql = require('mysql');
 const path = require('path');
 const cors = require('cors');
 const sqlite3 = require('sqlite3').verbose();
